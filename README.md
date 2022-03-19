@@ -4,7 +4,6 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 
 ## Demo Website
 
-👉 Demo : https://oldamazona.webacademy.pro
 
 ## Video Tutorial
 
